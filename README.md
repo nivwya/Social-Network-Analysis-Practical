@@ -21,37 +21,6 @@ Social-Network-Analysis-Practical/
 
 ---
 
-## Topics 
-
-### 1. Network Measures
-
-* Degree Centrality
-* Closeness Centrality
-* Betweenness Centrality
-
-### 2. PageRank Algorithm
-
-* Basic PageRank implementation
-* Improved PageRank techniques
-
-### 3. HITS Algorithm
-
-* Authority and Hub score computation
-
-### 4. Eigenvector Centrality
-
-* Node importance based on connections
-
-### 5. SimRank Algorithm
-
-* Similarity between nodes in a graph
-
-### 6. Dataset Analysis
-
-* Facebook Ego Network dataset analysis
-
----
-
 ## Requirements
 
 * Python 3.x
